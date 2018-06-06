@@ -1,0 +1,8 @@
+name
+siza
+type
+alignment
+armor class
+hit poitns
+hit dice
+challenge rating
