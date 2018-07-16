@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Bestiary3</string>
+    <string name="butao_login">Logar</string>
+    <string name="text_login">login</string>
+    <string name="hint_login">Digite seu usuário</string>
+    <string name="hint_senha">Digite sua senha</string>
+    <string name="text_cadastro">Não tem conta? crie uma!</string>
+    <string name="hint_usuario">Digite seu usuário</string>
+    <string name="hint_email">Digite seu email</string>
+    <string name="butao_cadastro">Cadastrar</string>
+    <string name="text_possui_cadastro">Já tem conta? faça o login!</string>
+    <string name="title_monster_create">Monster Create</string>
+    <string name="hint_monster_name">Monster Name</string>
+    <string name="hint_size">size</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Create_monster">Creater Monster</string>
+    <string name="Logout">Logout</string>
+    <string name="hint_challenge_rating">Challenge Rating</string>
+    <string name="hint_languages">Languages</string>
+    <string name="hint_charisma">charisma</string>
+    <string name="hint_wisdom">wisdom</string>
+    <string name="hint_intelligence">intelligence</string>
+    <string name="hint_constitution">constitution</string>
+    <string name="hint_dexterity">dexterity</string>
+    <string name="hint_strengh">Strengh</string>
+    <string name="hint_speed">Speed</string>
+    <string name="hint_hit_dice">Hit Dice</string>
+    <string name="hint_hit_points">Hit Points</string>
+    <string name="hint_armor_class">Armor Class</string>
+    <string name="hint_alignment">alignment</string>
+    <string name="hint_type">type</string>
+    <string name="Novos_monstros">Novos Monstros</string>
+    <string name="Monstros_base">Monstros base</string>
+    <string name="Bestiary">Bestiary</string>
+    <string-array name="monsters_size_array">
+        <item>Tiny</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Huge</item>
+        <item>Gargantuan</item>
+    </string-array>
+    <string-array name="monsters_alignment_array">
+        <item>Lawful good</item>
+        <item>Neutral good</item>
+        <item>Chaotic good</item>
+        <item>Lawful neutral</item>
+        <item>Neutral</item>
+        <item>Chaotic neutral</item>
+        <item>Lawful evil</item>
+        <item>Neutral evil</item>
+        <item>Chaotic evil</item>
+    </string-array>
+</resources>
