@@ -4,7 +4,7 @@
 ## Equipe:
 - Nailson Nascimento de Barros: Desenvolvedor
 
-## Relatório: [Clique Aqui]()
+## Relatório: [Clique Aqui](https://github.com/Nailsonnb/IF1001-Android-Bestiary/blob/master/Relatorio.md)
 ## Link do Vídeo no YouTube part 1: [Clique Aqui](https://youtu.be/INQkhpjUyIk)
 ## Link do Vídeo no YouTube part 2: [Clique Aqui](https://youtu.be/uECBgup5tqU)
 ## Link para Download da APK: [Clique Aqui](https://github.com/Nailsonnb/IF1001-Android-Bestiary/raw/master/Bestiary.apk)

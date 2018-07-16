@@ -18,7 +18,7 @@ Desenvolver uma aplicação mobile para ajudar os jogadores de dungeons and drag
 ## Banco de Dados e Sistema de Autenticação Utilizados
 - [Firebase] (https://firebase.google.com/)
 
-Dentre os Bancos de Dados analisados, este foi o mais simples em relação a implementação no nosso ponto de vista e já tínhamos utilizado em outro projeto.
+A ideia incial era utilizar o Parse + Back4App porem o firebase se mostrou mais rapido de ser configurado e mais facil de ser trabalhado permitindo uso direto com json.
 
 ## Funcionalidades Implementadas
 - Activitys
